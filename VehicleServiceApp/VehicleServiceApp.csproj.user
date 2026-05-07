@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\ComplaintsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\CrudPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomersPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\DashboardPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ReportsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\SchedulesPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\ServiceDetailsPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\StatusDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UsersPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\VehiclesPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
